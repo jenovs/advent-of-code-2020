@@ -11,11 +11,7 @@ object Day03 extends App {
 
   def mapper(stepX: Int = 3, stepY: Int = 1) = {
     @tailrec
-    def inner(
-        x: Int = 0,
-        y: Int = 0,
-        trees: Int = 0
-    ): Long = {
+    def inner(x: Int = 0, y: Int = 0, trees: Int = 0): Long = {
       val currY = y + stepY
 
       if (currY >= input.length) trees

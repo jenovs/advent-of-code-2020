@@ -5,3 +5,5 @@
 [Day 3](src/main/scala/day_03)
 
 [Day 4](src/main/scala/day_04)
+
+[Day 5](src/main/scala/day_05)

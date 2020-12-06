@@ -1,7 +1,6 @@
 package Day04
 
 import scala.io.Source
-import scala.util.Try
 
 object Day04 extends App {
   val input = Source

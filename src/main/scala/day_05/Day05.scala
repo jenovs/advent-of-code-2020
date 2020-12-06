@@ -1,7 +1,6 @@
 package Day05
 
 import scala.io.Source
-import scala.util.Try
 import java.lang.Integer._
 
 object Day05 extends App {

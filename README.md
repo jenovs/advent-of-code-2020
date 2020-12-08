@@ -9,3 +9,5 @@
 [Day 5](src/main/scala/day_05)
 
 [Day 6](src/main/scala/day_06)
+
+[Day 8](src/main/scala/day_08)

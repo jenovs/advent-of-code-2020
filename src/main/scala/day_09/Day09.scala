@@ -1,7 +1,6 @@
 package Day09
 
 import scala.io.Source
-import scala.collection.mutable.ListMap
 
 object Day09 extends App {
   val input = Source

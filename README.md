@@ -10,4 +10,8 @@
 
 [Day 6](src/main/scala/day_06)
 
+Day 7
+
 [Day 8](src/main/scala/day_08)
+
+[Day 9](src/main/scala/day_09)
